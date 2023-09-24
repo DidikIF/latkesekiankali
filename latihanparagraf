@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Identitas Diri</h1>>
+    <p style="text-align: justify;" Saya merasa untuk semester ini adalah mahasiswa yang paling tua.</p>
+    <p style="text-align: center;" Umur saya berkepala 5, dont be surprise,lol</p>
+    <p style="text-align: left;"And my hair accually is grey or white but im colouring it</p>
+    <p style="text-align: right;"Tapi saya bersemangat untuk belajar dengan temen temen yang mungkin seumuran dengan anak saya.</p>
+    <a href="latihan hrev.html"more info</a>
+        
+</body>
+</html>
